@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65103852845",
+    "project_id": "kalori-4a75b",
+    "storage_bucket": "kalori-4a75b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65103852845:android:3d5b8c1c9e688c4d088fa4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhcDiNgtpgpZFk2PDz0ojTq_CBfuKywRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
