@@ -7,7 +7,6 @@
     android:padding="16dp"
     tools:context=".Register">
 
-    <!-- Cím szöveg -->
     <TextView
         android:id="@+id/loginHeaderText"
         android:layout_width="wrap_content"
